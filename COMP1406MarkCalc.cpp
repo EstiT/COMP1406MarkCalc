@@ -1,7 +1,7 @@
 //Collier, R. "Lectures Notes for COMP1406C - Introduction to Computer Science II" [PDF documents].
 //Retrieved from cuLearn: https://www.carleton.ca/culearn/ (Winter 2016).
 
-#include "COMP1406W16A1.h"
+#include "COMP1406MarkCalc.h"
 
 
 float calculateYourFinalGrade(float avgT, float avgA, float markQ1, float markQ2, float markQ3, float markF){
